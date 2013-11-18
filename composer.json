@@ -1,0 +1,17 @@
+{
+    "name": "dandart/form",
+    "description": "PHP OOP Form Generator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dan Dart",
+            "email": "github@dandart.co.uk"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": { "Dandart\Form": "src" }
+    }
+}
