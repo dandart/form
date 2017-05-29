@@ -12,6 +12,6 @@
 
     },
     "autoload": {
-        "psr-0": { "Dandart\Form": "src" }
+        "psr-0": { "Dandart\\Form": "src" }
     }
 }
